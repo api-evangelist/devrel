@@ -1,0 +1,56 @@
+{
+    "name": "DevRel!",
+    "description": "Developer relations, developer marketing, developer experience",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18863-devrel-net.jpg",
+    "tags": [
+        "api events",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/devrel\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "DevRel!",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18863-devrel-net.jpg",
+            "humanURL": "http:\/\/london-2015.devrel.net\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/devrel-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/devrel-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.devrel.net\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.devrel.net\/feed.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/event\/devrelcon-2015-2015930"
+        },
+        {
+            "type": "Twitter",
+            "url": "devrel_net"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/london-2015.devrel.net\/"
+        }
+    ]
+}
